@@ -79,3 +79,11 @@
 - At the top, we see App switcher and navigation bar
   - Your Projects, Projects, Filters, Dashboard, People and Apps appear here
 - At the top right, we have search option, notification, help articles and settings
+
+### JIRA projects
+- New access from JIRA administrator
+- You can start your projects to make it quickly accessible
+- Each project has unique KEY which can be used to add in all issues 
+- Project can be assigned to a lead 
+- Options to add releases version of your Software
+- We can also components for tracking 
