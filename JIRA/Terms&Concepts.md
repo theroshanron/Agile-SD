@@ -87,3 +87,11 @@
 - Project can be assigned to a lead 
 - Options to add releases version of your Software
 - We can also components for tracking 
+
+### Creating an Issue
+- Click on the create button at top or use Keyboard shortcut "C"
+- A JIRA administrator can add what to appear in an issue like story, bug, task or anything custom and also the customized fields
+- Red asterisk which appears in the field means it's a mandatory field to be fulfilled
+- We can also add categories in the JIRA issue which is easier to identify and track later 
+- Click on create and a notification appears that the issue has been created at top-right
+  
