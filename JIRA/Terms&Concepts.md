@@ -51,3 +51,22 @@
 - Fast and easy to setup and maintain.
 
 #### Versions of JIRA
+- JIRA core
+  - Team project collaboration 
+  - Busines-focused project management
+  - Task management
+- JIRA Software (JIRA core + Agile)
+  - Includes Agile functionalities
+  - Kanban and scrum project management
+  - Software development integration and tools
+- JIRA Service Desk (JIRA core + helpdesk)
+  - Includes helpdesk functionalities
+  - IT support and helpdesk ticketng
+  - Troubleshooting management
+
+
+##### Jira license options
+- Cloud based or server
+  - Cloud based is lower cost with subscripton model
+  - Automatic updates included and support included
+- Server based allows extreme customization
