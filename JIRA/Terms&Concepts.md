@@ -70,3 +70,12 @@
   - Cloud based is lower cost with subscripton model
   - Automatic updates included and support included
 - Server based allows extreme customization
+
+## JIRA for users
+- Homescreen
+  - System dashboard
+  - Assigned to you
+  - Activity stream
+- At the top, we see App switcher and navigation bar
+  - Your Projects, Projects, Filters, Dashboard, People and Apps appear here
+- At the top right, we have search option, notification, help articles and settings
