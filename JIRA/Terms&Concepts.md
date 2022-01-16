@@ -1,1 +1,44 @@
 ## Introduction
+- A project manager and issue tracking tool for enterprise level
+
+### Agile
+- A software development methodology that is centered around helping teams get more stuff done by self-organizing their work 
+- It is ever-evolving and changing. It's about constantly imporving as a team
+- There are two methods:
+  - **Scrum**
+    - Scrum has sprints
+      - A pre determined amount of time where teams determine the work to get done 
+      - Stat by discussing last sprint
+      - What went well and didn't go well 
+      - What can we do better next sprint
+      - Discuss and agree on the work to get completed before the sprint end
+  - **Kanban**
+    - If something new comes with an urgency like bug,
+      - It will get in progress since we do not have sprint meetings
+      - Stand-up meetings can be organized on a daily basis to discuss the yesterday's roadlocks and possible next roadblocks before continuing work
+
+#### Stories and Epics
+- **Story**
+  - A method in Agile where a user wants something to be done for a specific reason
+    - A software to do calculations for the management of bills
+    - Amount of work that is fixed and will go on till the defined time in sprints
+    - Also knows as user stories
+- **Epic**
+  - Story 1
+  - Story 2
+  - Story 3
+  - Helps when the story gets multiple functionalities and needs to be expanded
+  - Also known as parent to multiple user stories
+
+#### Issues and Projects
+- **Issues**
+- Contains fields and track the progress in JIRA 
+  - Description, link, client name, operating system etc. are the fields
+  - Task, Stories, Bugs, Documentation are the issues
+  - Issues hold the fields that contain the data and we can create our own issue types as well.
+- **Projects**
+- Projects are containers for issues
+  - Website development, Marketing, Customer service 
+    - Story, Epic, Bugs separately in each project
+  - Issues live inside of the projects in JIRA
+  - Projects organize things about the issues
