@@ -42,3 +42,12 @@
     - Story, Epic, Bugs separately in each project
   - Issues live inside of the projects in JIRA
   - Projects organize things about the issues
+
+#### Next gen Projects
+- A special, simplified type of project
+- Doesn't require JIRA admin permissions to create 
+- Entities like issue types and statuses live inside the project
+- Can be customized for project where we need custom Entities /Issues
+- Fast and easy to setup and maintain.
+
+#### Versions of JIRA
