@@ -121,4 +121,11 @@
 - We can use search tab in left to search across the agile board
 - Use filters on board to quickly access the status based on the selected
 - Untick the existing and tick the next filter type to see the results
+- If we click on "Complete Sprint", it asks for what to do with the pending Issues
+  - Move to the new sprint 
+  - All the issues Goes to the backlog of new sprint
+  - We can create a Retrospective page to add the details on what to do with and completion time
+  - Drag the issues from backlog to present based on the planning meeting
+- In sprints, we move from left to right like In progress, Writing, Ready to QA, Editing, Final QA, Post live, Done
+- We can simply drag issues from one column to another
 - 
