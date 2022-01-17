@@ -155,3 +155,8 @@
 - Add name, access level, KEY, template (SCRUM, Kanban) and click create 
 - Use Roadmap to see epic and it's progress bar
 - All the setup in Next gen project remains in only next gen project
+
+### Working with Epic in clssic projects
+- Click Create and then select project as well as issue type to Epic
+- Add summary and Epic name (Required by JIRA)
+- We can create new or add existing issue to the Epic
