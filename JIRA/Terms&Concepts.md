@@ -116,3 +116,9 @@
 - We can add a name to the filter and save it to quickly access it
 - Saved filters can be added to the Agile board or dashboard
   
+### Scrum Agile board Overview
+- Click on the left side menu and then click on the scrum board
+- We can use search tab in left to search across the agile board
+- Use filters on board to quickly access the status based on the selected
+- Untick the existing and tick the next filter type to see the results
+- 
