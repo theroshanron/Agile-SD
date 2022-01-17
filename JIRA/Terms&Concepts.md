@@ -102,5 +102,12 @@
 - Use Advanced search options to search for issues using filters ike status, assignee and type
 - We can apply multiple filters in search to narrow down the search
 - Use JQL (JIRA query langauge) to shortcut the filter request (Atlassian document can be really helpful for the query)
-- 
+
+### Overview of the issues 
+- We can attach files, create sub-task and link an issue or the confluence
+- We have options to add description, subject and other fields required
+- In the activity section at the bottom, we can see comments, history and work log for the particular issue
+- At the top right, we can add watchers for the issue and see the details like start / end date, reporter, assignee
+- We can add categories and update the custom fields
+  
   
