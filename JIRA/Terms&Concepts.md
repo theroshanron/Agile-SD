@@ -146,3 +146,12 @@
 - Where to show the issues on the board is determined by the status of the Issues
 - As a JIRA administrator, we can add the custom columns and name it accordingly, usually based on the status of the issues
   
+### How next gen project works
+- Create a new project
+- Create next gen project
+  - It does not require administrator privileges
+  - Entities in next gen project only live in that project
+- It has limited feature set and easier to setup 
+- Add name, access level, KEY, template (SCRUM, Kanban) and click create 
+- Use Roadmap to see epic and it's progress bar
+- All the setup in Next gen project remains in only next gen project
