@@ -128,4 +128,12 @@
   - Drag the issues from backlog to present based on the planning meeting
 - In sprints, we move from left to right like In progress, Writing, Ready to QA, Editing, Final QA, Post live, Done
 - We can simply drag issues from one column to another
+  
+### Kanban Agile board
+- Similar options as Sprint board, we have search to search across the board
+- Click on owner to see assigned issues to them
+- We can use Quick filters(custom filters also allowed) based on issue type, status etc.
+- Untick the existing and tick the next filter type to see the results
+- Once the issue is moved to Done, it stays in the column for 2 weeks (can be changed by administrator)
+  - Disappears from the column after the defined time period
 - 
