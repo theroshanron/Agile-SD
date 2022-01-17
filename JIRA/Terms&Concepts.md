@@ -82,7 +82,7 @@
 
 ### JIRA projects
 - New access from JIRA administrator
-- You can start your projects to make it quickly accessible
+- You can star your projects to make it quickly accessible
 - Each project has unique KEY which can be used to add in all issues 
 - Project can be assigned to a lead 
 - Options to add releases version of your Software
@@ -94,4 +94,13 @@
 - Red asterisk which appears in the field means it's a mandatory field to be fulfilled
 - We can also add categories in the JIRA issue which is easier to identify and track later 
 - Click on create and a notification appears that the issue has been created at top-right
+
+### Searching for Issues
+- We can see the recently created issues in Activity stream on dashboard
+- Issues created can be seen under "Your work" as well
+- Using "/" shortcut or search tab at the right top
+- Use Advanced search options to search for issues using filters ike status, assignee and type
+- We can apply multiple filters in search to narrow down the search
+- Use JQL (JIRA query langauge) to shortcut the filter request (Atlassian document can be really helpful for the query)
+- 
   
