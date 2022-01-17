@@ -121,6 +121,8 @@
 - We can use search tab in left to search across the agile board
 - Use filters on board to quickly access the status based on the selected
 - Untick the existing and tick the next filter type to see the results
+- We can use Board settings, general filter and saved filter to select what to show on the board
+- Where to show the issues on the board is determined by the status of the Issues
 - If we click on "Complete Sprint", it asks for what to do with the pending Issues
   - Move to the new sprint 
   - All the issues Goes to the backlog of new sprint
@@ -136,4 +138,11 @@
 - Untick the existing and tick the next filter type to see the results
 - Once the issue is moved to Done, it stays in the column for 2 weeks (can be changed by administrator)
   - Disappears from the column after the defined time period
-- 
+- Difference between Kanban and Scrum boards are sprints
+- Kanban boards can have backlog to add low priority issues in the backlog and add the working issues in progress
+- Moves from left to right and we can use drag and drop option for the same 
+- Kanban or Sprint board, both are displays for the issues in agile way
+- We can use Board settings, general filter and saved filter to select what to show on the board
+- Where to show the issues on the board is determined by the status of the Issues
+- As a JIRA administrator, we can add the custom columns and name it accordingly, usually based on the status of the issues
+  
