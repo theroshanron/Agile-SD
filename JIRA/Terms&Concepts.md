@@ -156,7 +156,15 @@
 - Use Roadmap to see epic and it's progress bar
 - All the setup in Next gen project remains in only next gen project
 
-### Working with Epic in clssic projects
+### Working with Epic in classic projects
 - Click Create and then select project as well as issue type to Epic
 - Add summary and Epic name (Required by JIRA)
 - We can create new or add existing issue to the Epic
+
+### Working with Epic in Next gen projects
+- Click Create and then select project as well as issue type to Epic
+- Add summary (epic name is not required in Next gen project)
+- We can see the Epic progress in Roadmap view for all of the Epic
+- We can click on any EPIC and then add an existing child issue
+- We can add custom issue type in next gen project under project settings
+  
