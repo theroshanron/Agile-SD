@@ -167,4 +167,10 @@
 - We can see the Epic progress in Roadmap view for all of the Epic
 - We can click on any EPIC and then add an existing child issue
 - We can add custom issue type in next gen project under project settings
+
+## Jira for leadership (Working with teams)
+- Click on People and create the team with people who are already on JIRA
+- Add image header(optional) and description for the team
+- We can add link for everyone which can be knowledgeable or work as a bookmarked 
+- 
   
