@@ -211,3 +211,16 @@
   - Add a New Version name, released date and description
   - We can see the issues in the releases at the left side based on the version name 
 - We can also apply advanced filter to remove the done issue from done column (Can be controlled manually based on either weekly or monthly timeline from board settings)
+
+### Working with dashboard
+- Click Dashboard
+- Click on create a new dashboard and add name, description and access (Group) 
+  - Make sure to click on Add when you select the group and then save the dashboard
+  - Click on edit the layout and then add a gadget
+  - Add filter results, activity stream or anything 
+    - We can select existing keyboard or select new filter to narrow down the results and save it with a name
+    - Use naming convention for the filter which is easier to identify
+    - We will see the results in dashboard based on results matching the filter query 
+  - Even after adding the filters, we can customize the columns in the dashboard
+  - Use Advanced filter (JIRA query language) for the better results
+- 
