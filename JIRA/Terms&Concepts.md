@@ -252,5 +252,16 @@
 - We can also edit the field where we get visual display to see what field to change
 - Field we change should exist on the display or we can request the same from the JIRA administrator
 
+### Finding reports in Jira
+- Click on Project and then select one of the scum board
+- Click on reports at the left side menu
+- We can select any report type based on the requirement
+  - Both Sprint and Agile have some difference in reports
+- For Next gen project, we have Roadmap instead of the reports
+- We can also generate custom report by exporting the data of issues using filters
+- We can click on Excel icon to export to Excel Desktop or Excel online or we can also export CSV
+- We can click on Columns and select the columns of fields to export the only current field in CSV
+- From CSV, we can create our own reports and chart in Excel or Google Sheets.
+
 
   
