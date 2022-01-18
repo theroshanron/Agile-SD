@@ -179,3 +179,14 @@
     - Board from an exisitng project or existing saved filter 
     - Add the board name 
     - Choose the project and location of the board
+
+### Editing a scrum board
+- We can click on filter to edit the board 
+- JIRA creates a filter in the backend even if we select to create the board based on project
+- We can edit the filter anytime by adding/deleting anything from status, project etc. and then save the filter 
+- Click on Board settings and then column to add a column or rename te column
+  - Try to use naming convention for the column based on statuses 
+- We can use drag and drop option to move issue from one column to another
+- Swimlanes shows to whom the issue is assigned
+- We can save few quick filters for board as well from board settings
+- We can edit the card layout like color palette
