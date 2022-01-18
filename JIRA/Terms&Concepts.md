@@ -173,7 +173,7 @@
 - Add image header(optional) and description for the team
 - We can add link for everyone which can be knowledgeable or work as a bookmarked 
   
-### Creating a Scrum boards
+### Creating a Scrum board
   - Click on Projects and click on the left side arrow to create a new board
   - Click on Scrum board 
     - Board from an exisitng project or existing saved filter 
@@ -190,3 +190,10 @@
 - Swimlanes shows to whom the issue is assigned
 - We can save few quick filters for board as well from board settings
 - We can edit the card layout like color palette
+
+### Creating a kanban board
+- Click on projects and click on the left side to create a kanban board
+- Click on Kanban board
+    - Board from an exisitng project or existing saved filter 
+    - Add the board name 
+    - Choose the project and location of the board
