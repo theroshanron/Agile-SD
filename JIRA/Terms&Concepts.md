@@ -181,12 +181,12 @@
     - Choose the project and location of the board
 
 ### Editing a scrum board
-- We can click on filter to edit the board 
+- We can click on board settings to make any edit possible
 - JIRA creates a filter in the backend even if we select to create the board based on project
 - We can edit the filter anytime by adding/deleting anything from status, project etc. and then save the filter 
 - Click on Board settings and then column to add a column or rename te column
   - Try to use naming convention for the column based on statuses 
-- We can use drag and drop option to move issue from one column to another
+- We can use drag and drop option to move issue from one column to another and by default status will change
 - Swimlanes shows to whom the issue is assigned
 - We can save few quick filters for board as well from board settings
 - We can edit the card layout like color palette
@@ -197,3 +197,17 @@
     - Board from an exisitng project or existing saved filter 
     - Add the board name 
     - Choose the project and location of the board
+
+### Editing a agile board
+- We can click on board settings to make any edit possible
+- JIRA creates a filter in the backend even if we select to create the board based on project
+- We can edit the filter anytime by adding/deleting anything from status, project etc. and then save the filter 
+- Click on Board settings and then column to add a column or rename te column
+  - We can add a column in the backlog for the issues that has not been started like "To-do" column 
+  - Backlog option will appear in the hand side as well 
+- We can use drag and drop option to move issue from one column to another and by default status will change
+- S and T is the shortcut to move any issue from current position to the top 
+- Kanban has a Release button at the top to move all the done issues to releases
+  - Add a New Version name, released date and description
+  - We can see the issues in the releases at the left side based on the version name 
+- We can also apply advanced filter to remove the done issue from done column (Can be controlled manually based on either weekly or monthly timeline from board settings)
