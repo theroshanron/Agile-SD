@@ -172,5 +172,10 @@
 - Click on People and create the team with people who are already on JIRA
 - Add image header(optional) and description for the team
 - We can add link for everyone which can be knowledgeable or work as a bookmarked 
-- 
   
+### Creating a Scrum boards
+  - Click on Projects and click on the left side arrow to create a new board
+  - Click on Scrum board 
+    - Board from an exisitng project or existing saved filter 
+    - Add the board name 
+    - Choose the project and location of the board
