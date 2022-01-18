@@ -231,3 +231,14 @@
   - Click on edit and change the access to group
   - Click add and access will change from private to that group
   - Click on save and now the dashboard will be accessible to the team
+
+### Create issues in Bulk
+- Click on create issues and then import to add CSV file
+  - Top line in the csv is JIRA field to match like issue type, summary, duplicate, sorting field
+  - Click on next and select the project where you want to import
+  - Select date format, delimiter
+  - Select the field to map and then next then next
+  - Click on Map field value to forcefully map to the existing field
+  - Validate and then begin import
+  - We can download the log and also save the configuration for future use
+  
