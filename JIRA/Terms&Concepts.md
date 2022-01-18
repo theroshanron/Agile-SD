@@ -241,4 +241,16 @@
   - Click on Map field value to forcefully map to the existing field
   - Validate and then begin import
   - We can download the log and also save the configuration for future use
+
+### Edit issues in Bulk
+- Click on three little dot at right and then bulk change all issues to
+- Select the issues to make change 
+- Edit the value or transition of the issues
+- Select value and then select next 
+- Select whether to send mail for the update or not in the case of bulk edit
+- Confirm and Acknowledge
+- We can also edit the field where we get visual display to see what field to change
+- Field we change should exist on the display or we can request the same from the JIRA administrator
+
+
   
