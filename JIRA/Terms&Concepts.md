@@ -218,9 +218,16 @@
   - Make sure to click on Add when you select the group and then save the dashboard
   - Click on edit the layout and then add a gadget
   - Add filter results, activity stream or anything 
-    - We can select existing keyboard or select new filter to narrow down the results and save it with a name
+    - We can select existing filters or select new filter to narrow down the results and save it with a name
     - Use naming convention for the filter which is easier to identify
     - We will see the results in dashboard based on results matching the filter query 
   - Even after adding the filters, we can customize the columns in the dashboard
   - Use Advanced filter (JIRA query language) for the better results
-- 
+  - Always share the access of all gadgets with the team as well
+  
+### Saving filters for the team
+- We must share the filters with the team before sharing the dashboard else the team can see the dashboard but not the gadget which is filters
+- Go to filters and then select the Filters
+  - Click on edit and change the access to group
+  - Click add and access will change from private to that group
+  - Click on save and now the dashboard will be accessible to the team
