@@ -274,3 +274,18 @@
   - We can also add the users to existing group while inviting 
   - Role determins whether the user can just access product(basic role) or invite others as well with (trusted user role)
 - Under global site permission, we can select which user or group can create next gen project under grant permission
+
+### Projects in JIRA
+- As an administrator, we can create Classic Project 
+  - Add name, key and template for the project and click create
+    - Templates are Scrum, Kanban or Bug tracking
+    - We can also select different templates under Business category
+- Click on Project settings and then details to make any changes to the name, key, project type, lead and description
+  - Under people, we can invite people to the project and select their role 
+  - We can use workflow to define the custom workflow for our projects 
+  - Use permissions, to assign any user to the project so that they can see any issues under it
+- We can use notification to select for which events or action, we should be notified
+- We can also use project automation to add rules to the project based on some events and actions
+- We can also connect to external developer tools 
+- We can also use issue collectors to use JIRA as a service desk support 
+  
