@@ -337,6 +337,16 @@
 - Lets you control how the process for issues in a project takes place 
   - To do, In progress, QA and Done 
 - We can use drag and drop from one column to another where transition of status occurs in the backend
+- Click on project and then create the kanban board 
+- JIRA uses a simplified workflow
+  - To change this go to issue type and then Workflow Schemes
+    - Create a new workflow and add the name of the workflow and description
+    - Go to the schemes, and add new issue workflow
+    - Activate the scheme and setup the transition in Workflow Schemes
+    - We can click on diagram and select the transition by modifying the diagram 
+    - Publish workflow and acknowledge
+- Go to board settings and then columns to see the workflow based on the status of issues 
+- We can add both status and column in the board settings
 
 #### Resolution
 - Resolution is a field that helps us track why an issue is closed 
