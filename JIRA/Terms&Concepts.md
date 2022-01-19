@@ -332,3 +332,12 @@
   - Create screen 
     - Associate with screen scheme
       - Associate with the issue type
+
+### Workflow
+- Lets you control how the process for issues in a project takes place 
+  - To do, In progress, QA and Done 
+- We can use drag and drop from one column to another where transition of status occurs in the backend
+
+#### Resolution
+- Resolution is a field that helps us track why an issue is closed 
+  - Like bug was fixed, product developed or not going to do
