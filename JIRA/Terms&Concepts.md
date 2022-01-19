@@ -289,3 +289,17 @@
 - We can also connect to external developer tools 
 - We can also use issue collectors to use JIRA as a service desk support 
   
+### JIRA Admin overview
+- Click on settings, we can see system. products, projects, issues and apps settings
+- We can manage project roles and manage members
+- We can backup project or imporrt from CSV, TRELLO or JSON
+- We can use permission helper to find out what issue and why the user is facing by selecting user, issues and projects
+- We can use notificatioon helper to find out why the user is facing an issue with the notifications
+- JIRA Software configuration, enable features "Parallel Sprints" (to allow multiple sprint at any given time in a scrum project)
+- We can click on Project settings to see all project at one screen 
+- We can click on Issue Settings and see all the issue type, 
+  - We can create a new issues and fields from here 
+  - We can also manage the workflows from here for issues 
+- Under App settings, we can enable any app from the Atlassian marketplace or buy one with subscription model
+  - We can also manage the apps from here 
+  
