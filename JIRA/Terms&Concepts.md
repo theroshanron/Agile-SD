@@ -316,4 +316,11 @@
     - Select the scheme which is associated with the project
     - Click on edit and then drag the new issue to current scheme
     - We can add the new issue type to multiple projects of our choice directly with project settings or schemes
+
+#### Creating custom fields
+- Click on issues settings and then click on custom fields
+  - Click on create custom field
+  - Select the type of field like checkpox, date picker, text field, radio button, url or drop down
+  - Click on next and then add name, description and add Options like website, social, prodcast to which new feature field needs to be enabled
+  - We can add the new field to any existing screen and then click on update
   
