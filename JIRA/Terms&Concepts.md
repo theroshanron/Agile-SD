@@ -309,3 +309,11 @@
 - We can select the issues, add, remove from the schemes 
 - Easy to associate multiple projects in one schemes to make bulk changes for any entites
   
+#### Create an issue type 
+- Click on Issues settings and the click on Add an issue type 
+  - Add name, description or type whether it's a standatd issue type or sub-task issue type 
+  - Once created, we can go to issue type schemes,
+    - Select the scheme which is associated with the project
+    - Click on edit and then drag the new issue to current scheme
+    - We can add the new issue type to multiple projects of our choice directly with project settings or schemes
+  
