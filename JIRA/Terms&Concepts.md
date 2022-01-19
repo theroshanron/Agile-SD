@@ -302,4 +302,10 @@
   - We can also manage the workflows from here for issues 
 - Under App settings, we can enable any app from the Atlassian marketplace or buy one with subscription model
   - We can also manage the apps from here 
+
+### Understanding schemes
+- Schemes are the concept in live between the projects and any of the entities 
+- If the scheme is associated with multiple projects, when we create any new issue, it will be created under all the projects
+- We can select the issues, add, remove from the schemes 
+- Easy to associate multiple projects in one schemes to make bulk changes for any entites
   
