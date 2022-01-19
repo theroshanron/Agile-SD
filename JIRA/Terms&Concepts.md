@@ -321,6 +321,14 @@
 - Click on issues settings and then click on custom fields
   - Click on create custom field
   - Select the type of field like checkpox, date picker, text field, radio button, url or drop down
-  - Click on next and then add name, description and add Options like website, social, prodcast to which new feature field needs to be enabled
+  - Click on next and then add name, description and add Options like website, social, prodcast with which new feature field needs to be enabled
   - We can add the new field to any existing screen and then click on update
-  
+
+#### Working with the Screens
+- Project and issue type determines the Screen
+- Click on issue types and then issue type screen schemes
+  - Click on top and then associate the issue with the screen
+  - Click on edit/configure to customize and edit the fields
+  - Create screen 
+    - Associate with screen scheme
+      - Associate with the issue type
