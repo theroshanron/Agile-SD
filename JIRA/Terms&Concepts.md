@@ -263,5 +263,14 @@
 - We can click on Columns and select the columns of fields to export the only current field in CSV
 - From CSV, we can create our own reports and chart in Excel or Google Sheets.
 
+## JIRA for Administrator
 
-  
+### Users in JIRA
+- We can have unlimited users in JIRA based on what we pay for application access
+- Click on settings and then user management
+- We can use site access in the left side menu to invite or apporve JIRA access for the domain or users
+- Click on Access request to see who has requested for JIRA access and with what role
+- We can select on invite users and then select the email address, role and product access.
+  - We can also add the users to existing group while inviting 
+  - Role determins whether the user can just access product(basic role) or invite others as well with (trusted user role)
+- Under global site permission, we can select which user or group can create next gen project under grant permission
