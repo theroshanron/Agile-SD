@@ -351,3 +351,7 @@
 #### Resolution
 - Resolution is a field that helps us track why an issue is closed 
   - Like bug was fixed, product developed or not going to do
+  - Click on issue settings and then statues in the left hand side menu to select any status.
+  - Go to the workflow and click on diagram to add the resolution on "Done" status
+  - Publish and acknowledge
+  
