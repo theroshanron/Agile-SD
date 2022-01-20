@@ -370,3 +370,11 @@
   - Click on more and then move 
   - Select the project and issue type as it should be moved from current issue type.
   - Add story points and confirm
+  - JIRA automatically redirects the url with key to new key after its moved 
+  - We can also move multiple issues from one project to another using filter and bulk changes
+
+#### How automatic assignee works
+- Create an issue and select the assignee to anyone or automatic.
+- Go to project settings and then click on project 
+  - Click on User and roles
+  - Select the role of project lead and default assignee
