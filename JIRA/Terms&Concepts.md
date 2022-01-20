@@ -383,3 +383,17 @@
 - Go to the dashboard and search for all boards
 - Select the three dots at the right of the board and then delete 
 - Once confirmed, board gets deleted permanently and no way to recover it
+
+#### Customizing the issues in a new Agile board
+- Go to the board settings and click on saved filters
+- Update the filter query or add a new filter 
+- We can also add new issue types from the board settings
+
+#### Add transitions in workflow
+- We cannot add any outgoing transitions if one does not exist in the drft mode
+- To fix this, either make the workflow inactive or publish the workflow 
+- We can create a copy and keep the workflow in inactive and then associate it with the active one
+- Make the changes in inactive workflows and then associate the active workflow with the inactive one
+- Now we can make the outgoing transitions and can proceed to delete the inactive workflow
+- Dotted lines in workflow status means the issue needs to be in one of the status before moving into it
+- Make all the changes in inactive workflows before publishing it
