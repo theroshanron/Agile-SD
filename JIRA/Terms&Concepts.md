@@ -397,3 +397,19 @@
 - Now we can make the outgoing transitions and can proceed to delete the inactive workflow
 - Dotted lines in workflow status means the issue needs to be in one of the status before moving into it
 - Make all the changes in inactive workflows before publishing it
+
+#### Creeate a screen from scratch
+- Click on issue type settings and then screens at the left side of the screen.
+- Ad screen and name the screen.
+- Add fields in field tab. 
+- Summary is the required/mandate field for all the issue types in Jira
+- Assign the newly created screen to the project from screen schemes.
+  - Add screen scheme and name it 
+    - Add the newly created screen as a default.
+    - We can select the issue operation for the screen like edit , create or default 
+    - Select the issue type screen schemes by selecting the issue type and screen scheme
+    - Go to the project settings and then screen.
+    - Associate the screen type you want to use like the newly created screen.
+  - We can edit the screen schemes for any issue type after it's created as well using the edit button under the issue type screen scheme Settings
+  
+## The End ##
