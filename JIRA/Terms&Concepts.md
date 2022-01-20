@@ -351,7 +351,22 @@
 #### Resolution
 - Resolution is a field that helps us track why an issue is closed 
   - Like bug was fixed, product developed or not going to do
+  - Create resoltuion and add a screen to the transition of the status
   - Click on issue settings and then statues in the left hand side menu to select any status.
   - Go to the workflow and click on diagram to add the resolution on "Done" status
   - Publish and acknowledge
   
+## F.A.Q
+#### How to get issues to show up on scrum and kanban board at the same time
+- Click on board and then configure
+- Click on Saved filter in General and then edit filter query.
+- Update and add all the projects you want issues from on the board
+  - Make sure that statuses are mapped to the columns in board Settings
+  - Any issues from kanban board to appear on scrum board must be added to the sprint
+- Above steps works for both Scrum and kanban board
+
+#### To move issues from one project to another
+- Click on issue 
+  - Click on more and then move 
+  - Select the project and issue type as it should be moved from current issue type.
+  - Add story points and confirm
