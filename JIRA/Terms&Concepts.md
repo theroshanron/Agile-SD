@@ -378,3 +378,8 @@
 - Go to project settings and then click on project 
   - Click on User and roles
   - Select the role of project lead and default assignee
+
+#### How to delete a board
+- Go to the dashboard and search for all boards
+- Select the three dots at the right of the board and then delete 
+- Once confirmed, board gets deleted permanently and no way to recover it
