@@ -11,3 +11,4 @@
   - To sustain and renew products 
 - Scrum is now being used beyond products and even in managing the operation of organisations and almost everything we use in our daily lives, as individuals and societies.
 
+## Update
