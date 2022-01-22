@@ -30,3 +30,22 @@
 - Focus: On team's goal
 - Respect: Respect feedback and opinion
 - Openness: Open about all the work and challenges
+
+## Waterfall model
+- Sequentially to solve a complex problem.
+- Linear sequential design approach
+  - Requirement
+  - Analysis
+  - Design
+  - Build
+  - Test
+  - Deploy
+  - Maintain
+- Structural approach leading from stage to stage
+- Low maturity framework
+- Top down, low autonomy model with the actual team 
+- Iterative
+  - Incremental
+    - Transparency
+      - Inspection
+        - Adaption
