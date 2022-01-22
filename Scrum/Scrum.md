@@ -24,4 +24,9 @@
     - Continuous Improvement based on the feedback
     - Make the adustment as soon as possible when needed.
 
-
+## Scrum values
+- Commitment: Personally
+- Courage
+- Focus: On team's goal
+- Respect: Respect feedback and opinion
+- Openness: Open about all the work and challenges
