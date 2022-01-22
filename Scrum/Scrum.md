@@ -76,6 +76,15 @@
     - Optimizing the value of work the dev team performs
     - Balance all views from inside and outside the scrum team
 - Scrum master: Has responsibility for the process that team follows scrum and agile methodology
+  - A unique role for someone with expertise in scrum.
+  - Promoting and supporting scrum
+  - Helping everyone understand scrum theory, practices, rules and values.
+  - Clearing obstacles and establishing an effective environment
+  - Addressing team dynamics and protecting the team from outside influence
+  - Need to work together with the product owner 
+  - Finding techniques for effective product backlog management
+  - Understanding product planning in an empirical environment
+  - Understanding and practicing agility
 - Development team: Has responsibility for the delivery and development of the product
   - Deliver the potentially releasable increment of done product at the end of each sprint
   - Self organizing and cross functional
