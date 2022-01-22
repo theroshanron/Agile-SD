@@ -44,8 +44,8 @@
 - Structural approach leading from stage to stage
 - Low maturity framework
 - Top down, low autonomy model with the actual team 
-- Iterative
-  - Incremental
+- Iterative: Repeat the process again to improve
+  - Incremental: Adding to the product in a series of small changes
     - Transparency
       - Inspection
         - Adaption
@@ -67,3 +67,10 @@
   - Development team
     - Scrum master
   
+## Scrum Roles
+- Product owner: Has responsibility for the product value
+  - 
+- Scrum master: Has responsibility for the process that team follows scrum and agile methodology
+- Development team: Has responsibility for the delivery and development of the product
+- All members are self organized and cross functional
+
