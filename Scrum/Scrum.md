@@ -69,8 +69,19 @@
   
 ## Scrum Roles
 - Product owner: Has responsibility for the product value
-  - 
+    - Maximise the value of the product 
+    - Value means efficienc, quality
+    - Sole responsibility to manage the product log and delegate 
+    - Ordering items to best achieve goals
+    - Optimizing the value of work the dev team performs
+    - Balance all views from inside and outside the scrum team
 - Scrum master: Has responsibility for the process that team follows scrum and agile methodology
 - Development team: Has responsibility for the delivery and development of the product
+  - Deliver the potentially releasable increment of done product at the end of each sprint
+  - Self organizing and cross functional
+  - No titles and sub-teams within the team 
+  - Accountability belongs to the team
+  - Development team size should be minimal following the Amazon rule of feed the team with two pizzas
+    - Fewer than 9 and more than 3 should be optimal
 - All members are self organized and cross functional
 
