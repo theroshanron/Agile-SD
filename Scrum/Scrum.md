@@ -109,6 +109,13 @@
     - Scope is clarified and renegotiated between PO and dev team.
     - If the sprint goal becomes obsolete due to company's direction change or market tech condition changes, cancel the spint after reviweing the releasable work.
   - Sprint planning 
+    - Scrum team attends the session to focus on planning of the work 
+    - What can be delivered and how will the work be achieved?
+    - Eight hours per month usually 2 hours per week. 
+    - Defined the sprint goal and latest product increment. 
+    - Projected capacity of the team and review past performance of the dev team to look at the best indicator.
+    - Draw up an inital plan to achieve the goal within sprint period. 
+    - Convert product backlog into a working incrmeent by working together to design the system.
   - Daily Scrum
   - Sprint retrospective
   - Sprint Review
