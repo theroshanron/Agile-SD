@@ -116,7 +116,18 @@
     - Projected capacity of the team and review past performance of the dev team to look at the best indicator.
     - Draw up an inital plan to achieve the goal within sprint period. 
     - Convert product backlog into a working incrmeent by working together to design the system.
+    - Sprint Goal: 
+      - An objective set for the sprint to provide guidance on what functionalities to be build with focus in mind. 
   - Daily Scrum
+    - Internal meeting for the dev team where product owner and scrum market have options to join or not.
+    - Scheduled daily on same time for 15 mins.
+    - To inspect the progress and plan the next 24 hours
+    - Optimises collaboration and performance of the team 
+    - Eliminates the need of other meeting.
+    - Answer three questions:   
+      - What did I do yesterday?
+      - What will i do today?
+      - Are there any impediments in my way?
   - Sprint retrospective
   - Sprint Review
 
