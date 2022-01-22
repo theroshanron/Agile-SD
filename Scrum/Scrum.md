@@ -49,3 +49,21 @@
     - Transparency
       - Inspection
         - Adaption
+
+## What is Scrum?
+- A framework for developing, delivering, sustaining complex products
+- It's lightweight, simple to understand and difficult to master
+- It allows to understand the effectiveness of the product management and work techniques to continuously improve the product 
+- It is not a process, technique or definitive method 
+- Consist of framework design
+  - Product Backlog
+    - Involves leadership, customers, stakeholders and users input owned by product owners (managers)
+    - Sprint is the timeline for the product development
+      - Sprint planning occurs daily,weekly or bi-weekly to discuss the goal, achievement and challenges
+      - Sprint review to check the done items and future direction with high level agreement 
+      - Sprint retrospective to check what went well and what can be improved 
+    - Potentiall shippable / deliverable product
+- Product owners 
+  - Development team
+    - Scrum master
+  
