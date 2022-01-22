@@ -129,6 +129,12 @@
       - What will i do today?
       - Are there any impediments in my way?
   - Sprint retrospective
+    - Meeting is for every member of the scrum team. 
+    - It is held after the sprint review and before the next sprint planning.
+    - 3 hours in a month. 
+    - How did the sprint go? In terms of people, process and tools. 
+    - Formal opportunity to inspect and adapt.
+    - Opprotunity to create a plan for the next sprint.
   - Sprint Review
     - It is for the whole scrum team and product owner decides which other stakeholders to invite.
     - 4 hours in a month / 1 hour weekly.
