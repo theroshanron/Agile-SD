@@ -11,4 +11,17 @@
   - To sustain and renew products 
 - Scrum is now being used beyond products and even in managing the operation of organisations and almost everything we use in our daily lives, as individuals and societies.
 
-## Update
+## Empirical Process Control
+- Active changing of a process based on the results of the process monitoring
+- Supported by the  
+  - Transparency:
+    - Significant aspects of the process are visible to those who are responsible for the outcome 
+    - Define a common standard so that all observes have a common understanding
+  - Inspection:
+    - Process and artifacts are inspected regularly
+    - Performed by skilled inspectors at the point of work 
+  - Adaption: 
+    - Continuous Improvement based on the feedback
+    - Make the adustment as soon as possible when needed.
+
+
