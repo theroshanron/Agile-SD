@@ -130,4 +130,11 @@
       - Are there any impediments in my way?
   - Sprint retrospective
   - Sprint Review
+    - It is for the whole scrum team and product owner decides which other stakeholders to invite.
+    - 4 hours in a month / 1 hour weekly.
+    - Inspect the sprint increment and make a decision whether to accept or not the so far development from last review.
+    - Opportunity to understand and discuss what was done during the sprint and collaborate on what could be done in the next sprint to optimize value.
+    - Product owner explaining what has been done and has not .
+    - The development team will demo the work done and answer questions on the increment.
+    - Revised backlog
 
