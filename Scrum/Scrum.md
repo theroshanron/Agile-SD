@@ -101,7 +101,13 @@
 - It is needed to enable the transparency, inspection and adaption.
 - Five events:
   - Sprint
-  - 
+    - Usable and deliverable product creation.
+    - A goal of what is to be built, a design, a flexible plan, the actual work and product increment.
+    - Everyone is involved in the sprint including the stakeholders
+    - Time box for maximum of one month but not fixed and only on agreable timeline.
+    - No changes can be made that would endanger the goal.
+    - Scope is clarified and renegotiated between PO and dev team.
+    - If the sprint goal becomes obsolete due to company's direction change or market tech condition changes, cancel the spint after reviweing the releasable work.
   - Sprint planning 
   - Daily Scrum
   - Sprint retrospective
