@@ -85,6 +85,8 @@
   - Finding techniques for effective product backlog management
   - Understanding product planning in an empirical environment
   - Understanding and practicing agility
+  - Protector, Advisor, Facilitator and teacher to focus on the process
+  - Help the development team to create high value products
 - Development team: Has responsibility for the delivery and development of the product
   - Deliver the potentially releasable increment of done product at the end of each sprint
   - Self organizing and cross functional
@@ -93,4 +95,15 @@
   - Development team size should be minimal following the Amazon rule of feed the team with two pizzas
     - Fewer than 9 and more than 3 should be optimal
 - All members are self organized and cross functional
+
+## Scrum Events
+- Scrum events are to create regularity and to minimise the need for meetings not defined in Scrum.
+- It is needed to enable the transparency, inspection and adaption.
+- Five events:
+  - Sprint
+  - 
+  - Sprint planning 
+  - Daily Scrum
+  - Sprint retrospective
+  - Sprint Review
 
