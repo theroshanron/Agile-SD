@@ -149,6 +149,11 @@
   - Represent work of value in the most transparent way 
   - Optimize and maximise vale and control risk
 - Product backlog
-  - 
+  - Ordered list of everything that is known which is needed for the product.
+    - Feature
+      - Enhancement
+        - Function
+  - Product owner is responsible for the product log and dev team decides the estimates.
+  - Description, esitmates, value and order are attributes of the product log.
 - Scrum backlog 
 - Increment
