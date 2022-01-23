@@ -168,4 +168,13 @@
 - At any point, we can estimate the time for the remaining work based on goal
 - Burn up charts focus on the accumulation of everything achieved
 - Burn down shows the amount of work left to be completed
+
+## Definition of Done 
+- It changes from product to product and organisation to organisation
+- Modules and stepwise completion based on several factors like is the brand logo ready?
+- A checklist of items that needs to be addressed.
+- Definition of done is our statement of quality
+- It is used to assess when wor is complete.
+- Product should have definition of done that needs to be standard for all the team working on it.
+  
   
