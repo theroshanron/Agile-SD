@@ -158,5 +158,14 @@
 - Scrum backlog 
   - Product backlog + Plan to the delivery of incremental product
   - It makes all sprint items visible.
+  - It includes one high priority item of continuous improvement from the retrospective
   - Owned by the development team
 - Increment
+  - Sum of all product backlog items completed in the sprint and value of the increments of previous sprint.
+  - A step towards end of the goal.
+
+## Monitoring progress towards a goal
+- At any point, we can estimate the time for the remaining work based on goal
+- Burn up charts focus on the accumulation of everything achieved
+- Burn down shows the amount of work left to be completed
+  
