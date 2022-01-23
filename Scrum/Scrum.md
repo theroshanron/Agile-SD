@@ -144,3 +144,11 @@
     - The development team will demo the work done and answer questions on the increment.
     - Revised backlog
 
+## Scrum Artifacts
+- Purpose of artifacts:
+  - Represent work of value in the most transparent way 
+  - Optimize and maximise vale and control risk
+- Product backlog
+  - 
+- Scrum backlog 
+- Increment
