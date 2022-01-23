@@ -156,4 +156,7 @@
   - Product owner is responsible for the product log and dev team decides the estimates.
   - Description, esitmates, value and order are attributes of the product log.
 - Scrum backlog 
+  - Product backlog + Plan to the delivery of incremental product
+  - It makes all sprint items visible.
+  - Owned by the development team
 - Increment
