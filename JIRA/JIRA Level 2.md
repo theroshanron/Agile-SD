@@ -49,3 +49,11 @@
 - In the left hand side, click on Releases to start creating release version.
   - Add name, start/end date and description.
   - Link the stories to releases by adding fix version field.
+
+## User story description to reflect business value
+- As a client, I should be able to enter my email/username and password in the login page so that I can login.
+- Add acceptance critera discussed within agile team.
+- Product owner needs to make sure that right component(team), version and epic is added to the story.
+- Story goes to the backlog and from there we can add multiple issues(modules for the login page) related to single epic:
+  - Edit boxex creation, description about login page, login page footer links, virtual keyboard implementation in login page, login in submit with drop down.
+  - Account summary section, Recenty activity, Prepopulate data into account selections, footer cards and welcome section with name in the dashboard.
