@@ -35,3 +35,10 @@
   - Used to articulate how a piece of work will deliver a particular value back to the customer.
   - Often expressed in a simple sentence structured as follows.
   - "As a [person], [I want to], [so that]
+
+### Create Epics and story
+- Use epics to plan features across multple Sprints
+- Click Create issue and then select the issues as Epic under the project.
+- Click Create issue and then select the issues as Story and add the description as well as other details.
+  - Link the story to epic with the dropdown in field epic link and add priority, labels etc.
+  - Newly created stories goes to backlog in Scrum.
