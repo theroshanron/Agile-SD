@@ -42,3 +42,10 @@
 - Click Create issue and then select the issues as Story and add the description as well as other details.
   - Link the story to epic with the dropdown in field epic link and add priority, labels etc.
   - Newly created stories goes to backlog in Scrum.
+
+## Components and Release Versions
+- We can create a component by clicking on Components in the left hand side on local server and right hand side on JIRA software cloud.
+  - Add the team, description and assignee.
+- In the left hand side, click on Releases to start creating release version.
+  - Add name, start/end date and description.
+  - Link the stories to releases by adding fix version field.
