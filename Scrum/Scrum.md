@@ -177,4 +177,10 @@
 - It is used to assess when wor is complete.
 - Product should have definition of done that needs to be standard for all the team working on it.
   
-  
+## Scrum Certifications
+- Certified Scrum Master (CSM): Developed by Scrum Alliance (Approx USD 1200)
+- Professional Scrum Master (PSM): Developed by Scrum.org (Approx USD 150)
+  - Three levels from PSM 1 to 3 
+- Safe 4.0 Scum developed by Scaled Agile Inc. (Approx USD 1200)
+- Agile certified practitioner.
+- Agile Scrum Master.
