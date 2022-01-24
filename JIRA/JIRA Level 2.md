@@ -5,3 +5,11 @@
 - Edge testcases, defect life cycles, types of testing.
   - Edge testcases is out of box thinking and understand the process of defect life cycle.
 - Query language basics
+
+## Project to work on: Credit card online banking
+- How to use JIRA tool for this project management
+- Features to develop:
+  - Develop login module 
+  - Credit card and dashboard
+  - Profile
+
