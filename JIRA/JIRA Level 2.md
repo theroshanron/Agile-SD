@@ -12,4 +12,14 @@
   - Develop login module 
   - Credit card and dashboard
   - Profile
-
+  
+## Set up JIRA account and create Agile Scrum 
+- Visit JIRA on Atlassian https://www.atlassian.com/software/jira
+- Enter the email address and the site account which you would like to have
+  - e.g: XYZ.atlassian.net
+  - You can also continue with the Gmail account.
+  - Select the purpose of use and integrate apps if needed while setting up.
+  - Invite the team by entering their email address.
+  - Select the way of managing the project like Kanban, Scrum or Bug tracking 
+  - Company managed or team managed option type and then add the Project name which automatically ads the Key.
+  - Go through all the options in left menu side to explore.
