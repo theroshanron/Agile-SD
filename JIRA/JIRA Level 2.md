@@ -112,4 +112,11 @@
   - If something happened due to dependency on resources and tech stacks.
   - Come up with rectification idea/ action item so that it does not get repeated
   - Make a note of all the pain points and action item associated with it in the documentation.
+
+## Kanban boards
+- Does not have sprint board.
+- All the backlog item exists in the to-do status and we can work on the demand and deadline basis.
+- Create new project and then Kanban software development(JIRA software) or kanban board as template(JIRA cloud).
+- Backlog/To-do, Selected for development, In Progress and Done are the statuses on board.
+- Everything exist on one board and it is less used by the team.
   
