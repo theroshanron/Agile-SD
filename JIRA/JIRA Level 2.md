@@ -78,10 +78,20 @@
 - Backlog refinement meeting should occur 1 week before the next sprint (Adding acceptance criteria and Wireframe etc.)
 - Plan backlog refinement meeting in mid of the week before the next sprint.
 
+
 ### Sprint planning 
 - Check within the team how many resources we have for the week, holidays, and availability of members considering leave, sick leaves as well.
 - Plan a sprint by adding backlog issues to sprint board during the sprint meeting.
 - Make sure that all stories has the story points (estimation as in number of resources / week in some cases)
 - Story point act as velocity of the sprint and estimate shown on sprint board helps in estimating how many issues(stories) can be added to the story
 - Issues needs to be added from backlog to the sprint board based on the priority
+- Add sprint goal and start the sprint with duration (start date / end date)
 
+## Scrum board
+- To do, In Progress and Done column.
+- Columns can be customized from the project settings.
+- Make sure to update the status of stories before the sprint meeting. 
+- Sub-tasks should be moved to done whereas story goes to in progress for QA by product owner.
+- Daily huddle to discuss the status based on the board (15 mins)
+- Confirmation and tracking on active sprint.
+  
