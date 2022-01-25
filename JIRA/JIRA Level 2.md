@@ -94,4 +94,13 @@
 - Sub-tasks should be moved to done whereas story goes to in progress for QA by product owner.
 - Daily huddle to discuss the status based on the board (15 mins)
 - Confirmation and tracking on active sprint.
+
+## Creating Bugs and checking Sprint reports
+- We can check the report in graphical way which shows the pattern of story point and how long it took to achieve.
+- Reports are created after sprint is closed.
+- Bugs can be created as an issue same as story/task creation.
+  - Go to issues and then click create where issue type is Bug.
+  - Add complete description on how the bug can be reproduced
+  - Add priority and fixed version number
+  - Add the epic link / story.
   
