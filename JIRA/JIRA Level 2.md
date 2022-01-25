@@ -103,4 +103,13 @@
   - Add complete description on how the bug can be reproduced
   - Add priority and fixed version number
   - Add the epic link / story.
+
+## Sprint retrospective
+- Discuss what went well in the sprint and what did not go well in the sprint
+- Scrum master presents everything on the board
+- Discuss the reason behind why something did not go well and make a case study
+  - Find out if grooming and refining were done right.
+  - If something happened due to dependency on resources and tech stacks.
+  - Come up with rectification idea/ action item so that it does not get repeated
+  - Make a note of all the pain points and action item associated with it in the documentation.
   
