@@ -2,8 +2,8 @@
 - How software projects and testing is handled in Agile Environments.
 - Process definition and requirement for the project in Agile environment and SDLC(Software development Life cycle)
 - Understand JIRA tools for project/test management.
-- Edge testcases, defect life cycles, types of testing.
-  - Edge testcases is out of box thinking and understand the process of defect life cycle.
+- Edge test cases, defect life cycles, types of testing.
+  - Edge test cases is out of box thinking and understand the process of defect life cycle.
 - Query language basics
 
 ## Project to work on: Credit card online banking
@@ -37,7 +37,7 @@
   - "As a [person], [I want to], [so that]
 
 ### Create Epics and story
-- Use epics to plan features across multple Sprints
+- Use epics to plan features across multiple Sprints
 - Click Create issue and then select the issues as Epic under the project.
 - Click Create issue and then select the issues as Story and add the description as well as other details.
   - Link the story to epic with the dropdown in field epic link and add priority, labels etc.
@@ -52,8 +52,15 @@
 
 ## User story description to reflect business value
 - As a client, I should be able to enter my email/username and password in the login page so that I can login.
-- Add acceptance critera discussed within agile team.
+- Add acceptance criteria discussed within agile team.
 - Product owner needs to make sure that right component(team), version and epic is added to the story.
 - Story goes to the backlog and from there we can add multiple issues(modules for the login page) related to single epic:
-  - Edit boxex creation, description about login page, login page footer links, virtual keyboard implementation in login page, login in submit with drop down.
-  - Account summary section, Recenty activity, Prepopulate data into account selections, footer cards and welcome section with name in the dashboard.
+  - Edit boxes creation, description about login page, login page footer links, virtual keyboard implementation in login page, login in submit with drop down.
+  - Account summary section, Recent activity, Pre-populate data into account selections, footer cards and welcome section with name in the dashboard.
+
+## Backlog refinement
+- Add the acceptance criteria, error handling and validation to the story.
+  - Create edt boxes and add error handling like invalid information
+    - Special characters are not allowed
+  - Add story point to the story based on complexity
+  - 
