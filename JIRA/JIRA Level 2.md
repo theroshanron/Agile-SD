@@ -63,4 +63,10 @@
   - Create edt boxes and add error handling like invalid information
     - Special characters are not allowed
   - Add story point to the story based on complexity
-  - 
+- Overview of detailed requirement analysis, splitting large item into smaller ones and estimation of new items.
+
+## Creating sub-tasks 
+- Create sub-tasks in story to assign who will develop what (Developing, Manual testing, designing the UI, backend and automation)
+- Easier for project owner to track the status of story.
+- Sub-task should follow the acceptance criteria of story
+  
