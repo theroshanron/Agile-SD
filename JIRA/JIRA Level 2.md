@@ -75,9 +75,13 @@
 - Keep the last sprint for review and testing
 - Timeboxed iteration of continuous development cycle 
 - Within a sprint, planned work has to be completed by the team and made to be review.
+- Backlog refinement meeting should occur 1 week before the next sprint (Adding acceptance criteria and Wireframe etc.)
+- Plan backlog refinement meeting in mid of the week before the next sprint.
 
 ### Sprint planning 
 - Check within the team how many resources we have for the week, holidays, and availability of members considering leave, sick leaves as well.
 - Plan a sprint by adding backlog issues to sprint board during the sprint meeting.
-- Story point act as velocity of the sprint and estimate shown on sprint board helps in estimating how many issues(stories can be added to the story)
+- Make sure that all stories has the story points (estimation as in number of resources / week in some cases)
+- Story point act as velocity of the sprint and estimate shown on sprint board helps in estimating how many issues(stories) can be added to the story
 - Issues needs to be added from backlog to the sprint board based on the priority
+
