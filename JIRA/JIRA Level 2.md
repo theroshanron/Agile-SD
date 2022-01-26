@@ -126,3 +126,13 @@
 - Conditional testing
 - UI testing
 - Browser / Platform testing
+
+## Define tests when project backend is designed by APIs
+- Communication between backend and frontend by chunks of code.
+- If the frontend tech changes, sometimes we will need to change the code for backend as well.
+  - To make it independent, now we use API.
+  - Value is JSON / XML.
+- API response and database response both needs to be tested if we are getting actual value.
+  - Done by API testing.
+- Understand the architecture of application before writing any test cases.
+- 
