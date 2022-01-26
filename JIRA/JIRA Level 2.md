@@ -135,4 +135,11 @@
 - API response and database response both needs to be tested if we are getting actual value.
   - Done by API testing.
 - Understand the architecture of application before writing any test cases.
-- 
+- Multiple requests at the same time slows the fetching from API due to server load or server can fail too giving null response.
+  - This comes under performance and load testing.
+  - Define all type of performance test benchmarks
+  - Jmeter and Loadrunner are some of the tools for performance testing
+- Selenium web testing logins to the system from frontend and checks for all the functionalities.
+  - Selenium automaton test requires coding and reports the response from API server.
+- UI testing can be automated with frontend automation testing tools like Selenium
+
