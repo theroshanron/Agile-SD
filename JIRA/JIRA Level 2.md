@@ -120,3 +120,9 @@
 - Backlog/To-do, Selected for development, In Progress and Done are the statuses on board.
 - Everything exist on one board and it is less used by the team.
   
+## QA to come up with the test cases
+- Verify if the right data / information is available
+- Functional testing
+- Conditional testing
+- UI testing
+- Browser / Platform testing
