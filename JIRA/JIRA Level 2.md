@@ -143,3 +143,15 @@
   - Selenium automaton test requires coding and reports the response from API server.
 - UI testing can be automated with frontend automation testing tools like Selenium
 
+## How to think out of box for Testing 
+- Success and failure message with functional testing adding conditions.
+- Get as much as domain knowledge you can get for the project working on.
+- Test if everything at backend is working same as frontend
+- Test API cases and API to API calls.
+- If API fails because Often any technical problem arises, use the concept of disaster recovery
+  - Roll back the process, update the log and notify with an alert.
+- Prepare test cases to check for the trap
+  - Zero balance but tries to make the credit card payment is one test case
+  - You have 400 balance and payment needs to be made is 500 comes under test scenario
+  - You have to pay 400 and you are trying to pay 800 is one test scenario
+  - Account is closed or flagged but you are trying to make a payment is one of the test cases.
