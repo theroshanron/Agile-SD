@@ -250,4 +250,15 @@
 - Software testing life cycle  was introduced in waterfall model.
 - Requirement analysis and test planning is constant and occurs before every sprint.
 - Prepare test cases and test data before every story.
-- 
+  
+### Test environments
+- Code deployed on the server.
+- Database(also exists on the server) from where the data is being accessed by the application code on frontend.
+- Jenkins tools used to deploy with git and for testing.
+- A dev sub-domain is used for testing in stage.
+  - dev.abc.com   
+- Make sure environment is ready before application gets ready for the deployment.
+- Analyse all the story in the sprint grooming for testing and ask questions what kind of test environment needed.
+- It decides the software and hardware conditions under which a product is tested.
+- Use different branch to push and deploy the code for different features.
+- Multiple QA environments(at least 5) are needed for the big projects so that different team can test different features at one time.
