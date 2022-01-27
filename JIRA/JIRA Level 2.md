@@ -184,3 +184,14 @@
   - Click on Add Xray Issue types
   - Test, Precondition, Test set, Test plan, Test Execution and Sub-test execution are issue types.
   - Create a Test case and add the summary.
+  - Test is a sequence of steps coupled with conditions, test inputs and expected results
+  - Add test type: Manual or automatic.
+  - Add the steps and what to perform in description.
+    - Add action
+    - Add data 
+    - Add expected results.
+    - We can also attach images/screenshot of steps as well in the JIRA test steps.
+  - Add test preconditions (Opens an issue type)
+  - Create a Test set (Opens and issue type), add summary and description.
+    - Include what type of test case will be included.
+  - 
