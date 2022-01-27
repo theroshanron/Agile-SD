@@ -240,3 +240,14 @@
 - Staffing and training needs.
 - Testing duration.
 - What are the risk and contingencies plan for those risks.
+
+### Test case development 
+- In Agile, testing happens in every sprint. 
+  - Test cases are prepare for the modules/ sprint and not the whole product.
+- In waterfall model, the whole product is delivered once at a time and testing occurs before the delivery(unit, integration, functional)
+  - Test case development and testing environment is setup before the product delivery.
+  - Test cases are prepare for the complete product.
+- Software testing life cycle  was introduced in waterfall model.
+- Requirement analysis and test planning is constant and occurs before every sprint.
+- Prepare test cases and test data before every story.
+- 
