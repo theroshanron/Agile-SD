@@ -216,3 +216,19 @@
 - All the test execution result gets added to test plan automatically because we create test execution from test plan window.
 - Test run shows the status of test from execution.
 - We can also add our test cases to our user story with LINK issue(tested by, related to)
+
+## Software Testing Life Cycle
+- Testing is standardized and has life cycle just as software development.
+- Requirement analysis.
+  - Test planning.
+    - Test Case development.
+      - Test environment setup.
+        - Test execution.
+          - Test closure.
+
+- The requirement Traceability Matrix is prepared at test case development cycle.
+  - Industry accepted format for tracking requirements where each test case is mapped with the requirements.
+  - It helps in tracking backward and forward traceability.
+- Test plan is prepared by the test lead or senior QA in agile team.
+- Testing is just not limited to finding bugs and has a wider scope and required from the beginning of the project.
+- Use diagram or prototype for requirement gathering analysis
