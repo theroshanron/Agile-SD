@@ -232,3 +232,11 @@
 - Test plan is prepared by the test lead or senior QA in agile team.
 - Testing is just not limited to finding bugs and has a wider scope and required from the beginning of the project.
 - Use diagram or prototype for requirement gathering analysis
+
+### Test planning
+- Define test strategy in the document and it contains the plan related to all testing activities  which needs to be done to deliver a product.
+- This document is prepared after the analysis of requirements.
+- It contains what to test and what cannot be tested(like third party API or app included), tools required for testing, environment, infrastructure required for testing.
+- Staffing and training needs.
+- Testing duration.
+- What are the risk and contingencies plan for those risks.
