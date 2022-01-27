@@ -271,3 +271,15 @@
 - Write negative test cases as well and map it to the requirements
 - Backward and forward compatibility tracking can be done to find out the relevant cases.
 - This is outgoing in the agile environment and tested at the end of sprint.
+
+### Test execution and Closure activities
+- Execute all the test cases that have been prepared for the functionalities
+- Report the bug for correction and retest it after the resolve.
+- Monitor all the bugs in a document.
+- Do regression tests around the bugs.
+- Provide the screenshots or screen recording of how to reproduce the bug.
+- Once the product is delivered, we do the test closure.
+  - Ensure test completion: If something is missing, report it back in next sprint meeting after two weeks.
+  - Handover test artifacts: Create automation tests and handover to the clients.
+  - Project Retrospectives: What went well in the last release and what needs to be improved or any push back received.
+  - Archive test work products: Save the test data, if needed in later stage for testing or tracing when something breaks.
