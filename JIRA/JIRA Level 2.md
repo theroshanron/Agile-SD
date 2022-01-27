@@ -199,8 +199,20 @@
 - We can create multiple test cases and add to 1 test sets using add existing test case.
 - Create Test plans for any specific release.
   - Number of regression tests that needs to be test thoroughly before the release.
-  - Create a test plan in JIRA as an issue and add the test cases which needs to be test thoroughly.
+  - Create a test plan in JIRA as an issue and add the test cases which needs to be test thoroughly before the release.
     - Add the summary and description.
     - Add the existing test cases.
     - We can also include a test set instead of test cases.
     - Once the test plan is ready, start testing the test cases with test execution.
+
+### Test Execution
+- Click on create test execution and add the summary.
+- Add fixed versions and test environment.
+  - Looks similar to test plan.
+- Click on run button and proceed with all the test steps to execute.
+- Select the test status from passed, executed and failed.
+- We can also see the overall execution status from the top.
+- We can assign different steps to different assignee for the test execution.
+- All the test execution result gets added to test plan automatically because we create test execution from test plan window.
+- Test run shows the status of test from execution.
+- We can also add our test cases to our user story with LINK issue(tested by, related to)
