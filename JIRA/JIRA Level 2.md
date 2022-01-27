@@ -194,4 +194,13 @@
   - Add test preconditions (Opens an issue type)
   - Create a Test set (Opens and issue type), add summary and description.
     - Include what type of test case will be included.
-  - 
+
+### Importance of Xray 
+- We can create multiple test cases and add to 1 test sets using add existing test case.
+- Create Test plans for any specific release.
+  - Number of regression tests that needs to be test thoroughly before the release.
+  - Create a test plan in JIRA as an issue and add the test cases which needs to be test thoroughly.
+    - Add the summary and description.
+    - Add the existing test cases.
+    - We can also include a test set instead of test cases.
+    - Once the test plan is ready, start testing the test cases with test execution.
