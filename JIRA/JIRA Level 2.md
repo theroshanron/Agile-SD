@@ -155,3 +155,24 @@
   - You have 400 balance and payment needs to be made is 500 comes under test scenario
   - You have to pay 400 and you are trying to pay 800 is one test scenario
   - Account is closed or flagged but you are trying to make a payment is one of the test cases.
+
+## Test Scenario, case and steps
+- Scenario: Password reset functionality 
+- Test case 1: 
+  - Invalid email
+    - Throws an error and email for reset not sent.
+- Test case 2: 
+  - Valid email and password
+- Test case 3: 
+  - Reset link expired.
+- Test case 4:
+  - Password guideline not followed.
+- Test case 5:  
+  - Logged in with new password and logs out from all the device with logged in from old password.
+
+- Steps: 
+  - Login to the landing page and click forgot password.
+  - Enter valid email and submit.
+  - Repeat the above step and check the first link received for reset whether it's expired or not.
+  - Enter the password and submit, if there is an error message:
+    - Match the password following the guidelines.
