@@ -262,3 +262,12 @@
 - It decides the software and hardware conditions under which a product is tested.
 - Use different branch to push and deploy the code for different features.
 - Multiple QA environments(at least 5) are needed for the big projects so that different team can test different features at one time.
+
+### Requirement Traceability Matrix
+- Test the developed product based on the requirements of client.
+- Create multiple test cases for all the requirements
+- Mapping needs to be done for the test cases and the requirements to find out which test cases is for what requirement using matrix.
+- Every environment should have at least one test case.
+- Write negative test cases as well and map it to the requirements
+- Backward and forward compatibility tracking can be done to find out the relevant cases.
+- This is outgoing in the agile environment and tested at the end of sprint.
