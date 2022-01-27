@@ -176,3 +176,11 @@
   - Repeat the above step and check the first link received for reset whether it's expired or not.
   - Enter the password and submit, if there is an error message:
     - Match the password following the guidelines.
+
+## Xray App in JIRA
+- Install Xray plugin in JIRA for testing using Apps section in cloud version.
+- Configure the project after Xray is installed.
+- Select the project so that we can add Xray issue types.
+  - Click on Add Xray Issue types
+  - Test, Precondition, Test set, Test plan, Test Execution and Sub-test execution are issue types.
+  - Create a Test case and add the summary.
