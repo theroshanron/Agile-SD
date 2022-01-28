@@ -356,3 +356,10 @@
   - Complete and integrated software is tested to evaluate the system's compliance with the specified requirements.
 - Exploratory testing: 
   - Unscripted QA techniques used to discover unknown issues during and after the software development process.
+
+## Verification and validation
+- Verification: 
+  - Process of evaluating work products of a development phase to determine whether they meet the specified requirements for that phase.
+- Validation:
+  - Process of evaluating software during or at the end of the development process to determine whether it satisfies the specified business requirements
+  - Accept or reject the functionalities.
