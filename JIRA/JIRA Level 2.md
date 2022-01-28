@@ -329,3 +329,10 @@
   - Defects due to environment.
   - Not reproducible
   - Valid known
+
+## Smart way of retesting the defect 
+- Do regression testing around the defects.
+- Check all the existing functionalities to find out if any new bug has not occurred.
+- Test all the cases again before validating the defect functionality resolution.
+- Automate most of the testing for test cases.
+  
