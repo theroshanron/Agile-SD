@@ -363,3 +363,14 @@
 - Validation:
   - Process of evaluating software during or at the end of the development process to determine whether it satisfies the specified business requirements
   - Accept or reject the functionalities.
+
+## UAT, Load and stress Testing
+- UAT testing(User acceptance): 
+  - Done by the clients and is last step before the product goes live or before the delivery of the product is accepted.
+- Load testing: 
+  - It helps us to study the behavior of application under various loads to focus the response time.
+  - It helps in identifying how many concurrent users that server can handle effectively and quickly.
+- Stress testing: 
+  - Stress testing help us to observe the stability of the application to identify the breakdown point of the server.
+
+## Functional and Non-functional 
