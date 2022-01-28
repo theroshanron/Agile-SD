@@ -373,4 +373,15 @@
 - Stress testing: 
   - Stress testing help us to observe the stability of the application to identify the breakdown point of the server.
 
-## Functional and Non-functional 
+## Functional and Non-functional requirements
+- Functional requirement is describing the behavior of the system. 
+  - Functionalities that expected from the software.
+- Non-functional requirements are any other requirement than functional. 
+  - It can be used to judge the operation of the system rather than specific behavior.
+  - Performance: How many users application can handle.
+  - Scalability: How much data server handles.
+  - Usability: How convenient it is to access the application from different device and platform.
+  - Reliability: How secure the application is.
+  - Recoverability: What are the action plans on disaster recovery(server crash).
+  - Security: What security practices are followed to build the application.
+  - Stability: 
