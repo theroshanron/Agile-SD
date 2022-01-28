@@ -384,4 +384,16 @@
   - Reliability: How secure the application is.
   - Recoverability: What are the action plans on disaster recovery(server crash).
   - Security: What security practices are followed to build the application.
-  - Stability: 
+  - Stability: How stable the software is in different versions
+
+## Blackbox and Whitebox testing 
+- Blackbox testing:
+  - A software testing method in which the internal structure/design/implementation of the item being tested is not known to the tester.
+  - Applicable to higher levels of testing like Acceptance testing
+  - Done by Independent software testers.
+  - Programming knowledge not required.
+- Whitebox testing: 
+  - A software testing method in which the internal structure/design/implementation of the item being tested is known to the tester.
+  - Applicable to lower levels of testing: unit testing, integration testing.
+  - Done by software developers.
+  - Programming and implementation knowledge required.
