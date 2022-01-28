@@ -313,8 +313,19 @@
 
 ## Severity and Priority
 - Severity is to what extent the defect can affect the application.
+- Severity defines the functional of application
   - Critical
   - Major
   - Medium
   - Low
-- 
+- Priority is the order in which a defect should be fixed.
+- Priority defines the necessary and how quickly it needs to be fixed
+  - It can be categorized as low, medium and high
+- It requires complete knowledge of the domain and requirements of the stakeholders to understand the severity and priority.
+
+### Defect Triage 
+- A process to analyse the defect, it's severity and priority by defect owners.
+  - Valid but won't fix 
+  - Defects due to environment.
+  - Not reproducible
+  - Valid known
