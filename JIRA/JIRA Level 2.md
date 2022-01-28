@@ -310,3 +310,11 @@
 - Timestamp to provide when you found the error.
 - Screenshot of your system when error occurred.
 - Troubleshoot thoughts.
+
+## Severity and Priority
+- Severity is to what extent the defect can affect the application.
+  - Critical
+  - Major
+  - Medium
+  - Low
+- 
