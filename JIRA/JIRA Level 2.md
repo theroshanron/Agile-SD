@@ -336,3 +336,23 @@
 - Test all the cases again before validating the defect functionality resolution.
 - Automate most of the testing for test cases.
   
+## Types of testing:
+- Regression tests: 
+  - Process of testing changes to application to make sure that the existing functionalities still work with the new changes.
+  - Recommended before every release and majorly done with the automation right before the end of sprint.
+  - Automate every test cases with the automation script.
+  - It is used for test cases with frequent defects like functionalities critical and integration test cases.
+- Smoke / sanity tests:  
+  - Smoke test development and regression test development are related and similar
+  - The only difference is in depth scope(less for smoke tests) and duration of running the tests(less than 5 minutes).
+  - It runs after every build and consists of all critical tests (After every commit)
+  - All critical tests are done like loading of home page and done with the automation after every commit using the tools like Jenkins.
+- Component testing: 
+  - It is a method where testing of each component in an application is done separately.
+  - It is done in isolation from rest of the system depending on the development life cycle model.
+- Integration testing: 
+  - A type of testing where software modules are integrated logically and tested as a group.
+- End to end tests:   
+  - Complete and integrated software is tested to evaluate the system's compliance with the specified requirements.
+- Exploratory testing: 
+  - Unscripted QA techniques used to discover unknown issues during and after the software development process.
