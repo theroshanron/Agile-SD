@@ -297,4 +297,16 @@
     - Check for event action based on the timestamp.
   - Clean cache and cookies to try
   - Debug and understand the error first before reaching out to developer
-  - 
+
+## Create defect with complete details of bug 
+- Steps to re-produce the error page
+- Provide test data information
+- Provide expected result to see the change.
+- Steps to reproduce:
+  - Navigate, select and verify
+  - Test data.
+  - Credentials.
+  - Expected results.
+- Timestamp to provide when you found the error.
+- Screenshot of your system when error occurred.
+- Troubleshoot thoughts.
