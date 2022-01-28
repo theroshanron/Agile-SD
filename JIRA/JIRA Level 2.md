@@ -291,6 +291,10 @@
   - Check in network tab or browser console logs (in Google developer tools)
     - Check for the request in network call and preview the error code with parameters
     - We can also hit the url in postman to check the response from API.
+    - Check for the logs in console tab for issues at frontend validation.
+    - Every action taken on the page generates a log.
   - Check in App server logs.
+    - Check for event action based on the timestamp.
   - Clean cache and cookies to try
   - Debug and understand the error first before reaching out to developer
+  - 
