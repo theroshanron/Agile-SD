@@ -271,6 +271,7 @@
 - Write negative test cases as well and map it to the requirements
 - Backward and forward compatibility tracking can be done to find out the relevant cases.
 - This is outgoing in the agile environment and tested at the end of sprint.
+- Forward traceability is mapping of requirements to the test cases and backward traceability is mapping of test cases to the requirements.
 
 ### Test execution and Closure activities
 - Execute all the test cases that have been prepared for the functionalities
@@ -283,3 +284,13 @@
   - Handover test artifacts: Create automation tests and handover to the clients.
   - Project Retrospectives: What went well in the last release and what needs to be improved or any push back received.
   - Archive test work products: Save the test data, if needed in later stage for testing or tracing when something breaks.
+
+
+## Defect life cycle 
+- Troubleshoot when application does not work:
+  - Check in network tab or browser console logs (in Google developer tools)
+    - Check for the request in network call and preview the error code with parameters
+    - We can also hit the url in postman to check the response from API.
+  - Check in App server logs.
+  - Clean cache and cookies to try
+  - Debug and understand the error first before reaching out to developer
