@@ -235,11 +235,15 @@
 
 ### Test planning
 - Define test strategy in the document and it contains the plan related to all testing activities  which needs to be done to deliver a product.
+  - Includes objectives, schedule, estimation, deliverables and resources required to perform testing for a software product
 - This document is prepared after the analysis of requirements.
+  - Prepared by test managers and shared with business analysts, project managers, dev teams and anyone else associated with the project.
+    - It offers transparency into QA activities so that all stakeholders know how the software will be tested.
 - It contains what to test and what cannot be tested(like third party API or app included), tools required for testing, environment, infrastructure required for testing.
 - Staffing and training needs.
 - Testing duration.
 - What are the risk and contingencies plan for those risks.
+- Product analysis is the must for any one before preparing test plan and it also needs to include the exit parameters to show that the test plan covers all the requirements of business as per the documentation.
 
 ### Test case development 
 - In Agile, testing happens in every sprint. 
@@ -250,7 +254,7 @@
 - Software testing life cycle  was introduced in waterfall model.
 - Requirement analysis and test planning is constant and occurs before every sprint.
 - Prepare test cases and test data before every story.
-  
+- 
 ### Test environments
 - Code deployed on the server.
 - Database(also exists on the server) from where the data is being accessed by the application code on frontend.
