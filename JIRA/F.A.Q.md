@@ -60,3 +60,28 @@
 - Verify defects assigned and take appropriate action
 - Work on manual and automation for the stories in Current sprint.
 
+### How to select regression test cases 
+- Include the test that verify core features of the application
+- Include test cases for functionalities that have undergone recent changes.
+- Include test cases that have frequently yielded bugs.
+
+### First action to perform as a tester when application throws any weird errors.
+- Check the console logs in developer tools for error.
+- Check the network tab for error or json/js related to the project to find out the status.
+  - Check if any responses are failed.
+- Verify application logs to understand the actual issue.
+
+### How to solve conflict with the peer QA on any technical aspects
+- Arguments should be limited to certain extent with peer and with reasons why you are correct.
+- Include the team and discuss the conflict with larger audience to take open suggestions.
+- Accept any decision made by the team in the meeting with a smile.
+
+### How to decide if test case is not ideal candidate for automation
+- Tests which are highly dependent on data with frequent changes every time.
+- Tests which cannot be automated due to technical challenges
+- Tests which are unstable due to complex nature of application
+
+### Difference between Retesting and regression testing.
+- Regression testing is to ensure that changes have not affected the unchanged part.
+- Regression testing is not carried out for specific defect fixes.
+- Retesting is done to make sure that the test cases which failed in last execution are passed after the defects are fixed.
