@@ -409,3 +409,11 @@
   - Check if the delete items button working or not in the cart.
   - Verify the items on product page matches with the items in cart or not.
   - If the cart empty, cart empty message and next page button is disabled or not.
+
+### Continued test cases
+- Verify the logo image is displayed correctly or not as per the business expectation(size, color, font, position etc.)
+- Verify whether search functionality and search index is working as expected or not.
+- Check whether pop-up links are correctly hyperlinked or not so that we can navigate.
+- Verify negative test cases like searching the product with the punctuation(special characters)
+- Check for in what order the product is displayed whether it is alphabetical, price or trendy.
+- 
