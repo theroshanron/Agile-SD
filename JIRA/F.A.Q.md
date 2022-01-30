@@ -20,3 +20,43 @@
 - Environment available.
 - Using the right set of tools.
 
+### Different level of testing?
+- Unit testing. (Developer)
+- Integration testing. (Team of developers)
+- System testing. (Product owner)
+- Acceptance testing. (Done by end user or client)
+
+### Drawbacks of Agile implementation / methodology 
+- Sprints are usually very deadline constrained.
+- Documentation is not the priority.
+- Frequent changes in requirements.
+
+### Approach to have a high priority release to be delivered in a very short time.
+- Run Automation suites.
+- Run Unit tests.
+- Manual testing on igh level priority business test cases.
+
+### Example of high priority and low severity
+- Wrong brand logo image in Application.
+
+### What is Test plan?
+- A document that consists of scope, approach, resources, and outline of the testing project as well as the activities for tracking the progress of the project.
+
+### What should be the reaction if a project had been working got sudden changes in it's deadline.
+- Discuss the opportunities of increasing QA resources or partial product delivery
+- Hold the QA sign off if not satisfied with quality of product which eventually stops the release date.
+- Be open to thoughts if it can be delivered with QA sign off covering all test cases.
+
+### Difference between sanity testing and smoke testing
+- Sanity testing is performed after receiving a software build, with minor changes in code, or functionality, to ascertain that the bugs have been fixed
+- Smoke testing is a special case of testing performed on software build to check the critical functionalities of the program.
+
+### Ad hoc and Exploratory Testing
+- Ad hoc testing includes learning the application first and then proceeding with the testing process.
+- Exploratory testing form of testing includes learning the application while testing
+
+### Daily activities of a member of automation tester.
+- Running smoke suite on a daily basis and sending the mail about health of applications to stakeholders.
+- Verify defects assigned and take appropriate action
+- Work on manual and automation for the stories in Current sprint.
+
