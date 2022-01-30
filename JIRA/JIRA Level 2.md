@@ -415,5 +415,14 @@
 - Verify whether search functionality and search index is working as expected or not.
 - Check whether pop-up links are correctly hyperlinked or not so that we can navigate.
 - Verify negative test cases like searching the product with the punctuation(special characters)
-- Check for in what order the product is displayed whether it is alphabetical, price or trendy.
-- 
+- Check for in what order the product is displayed whether it is alphabetical, price, demand or trendy.
+- Execute all the test cases and see if it pass or fails.
+
+## Raise the defect using Bugzilla tool
+- It's a defect management tool developed by Mozilla. 
+- Login with github account on demo webpage of bugzilla-dev.allizom.org
+- Click on New bug and we will see the applications of our company else dummy product
+- Check for similar bug and Add short summary of the bug.
+- Add the summary, product, component, and what did we do(ways to reproduce bug).
+- What happened and what should have happened.
+- Attach the screenshot and type of bug.
