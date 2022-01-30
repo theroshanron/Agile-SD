@@ -397,3 +397,15 @@
   - Applicable to lower levels of testing: unit testing, integration testing.
   - Done by software developers.
   - Programming and implementation knowledge required.
+
+## End to end testing
+- Sample application to derive test cases could be e_commerce:
+  - Try clicking on all the buttons like add item to cart 
+  - Refresh the page to check if the item exits in the cart.
+  - Increase/ Decrease the item in cart to check if it exits in the cart.
+  - Verify text added pops up when we add the item to cart
+  - Check if the total amount of items are displayed correct or not.
+  - Check if the value on front end is same as the backend database or not (Use SQL query or JSON).
+  - Check if the delete items button working or not in the cart.
+  - Verify the items on product page matches with the items in cart or not.
+  - If the cart empty, cart empty message and next page button is disabled or not.
