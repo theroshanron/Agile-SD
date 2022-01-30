@@ -426,3 +426,14 @@
 - Add the summary, product, component, and what did we do(ways to reproduce bug).
 - What happened and what should have happened.
 - Attach the screenshot and type of bug.
+
+## Adding more details to bug
+- Go to the my dashboard and check for new reported by you or assigned bug.
+- Click on the bug ID and then edit.
+  - Add basic details like priority, severity, version and platform.
+  - Project owner is responsible for priority and severity in Agile model.
+  - Add status like unconfirmed, confirmed, new, assigned, resolved, verified or closed.
+  - We can also add mentor in the bug who can provide more details on the bug or solution.
+  - Add keywords, crash data(log of error / applications), attachments and in which story we ran into the issue.
+  - Add comments to give detailed information and then submit.
+  - Email goes to the developers.
