@@ -448,5 +448,22 @@
   - Check for all the possible scenario
     - Do smart testing to cover all the scenario in one go and avoid repeating steps.
     - Break down the test cases in separate parts to avoid repetitive steps.
-    - Perform integration testing and component / unit testing
-    - End to end test with integration tests
+    - End to end test (UI testing)
+      - Perform integration testing 
+        - component / unit testing
+  
+
+## Test pyramid case study
+- Manual tests starts with End to end tests
+- Perform more unit testing and less end to end testing.
+- Sign up / login case:
+  - Enter invalid email and fill the form submit.
+  - Enter password with wrong guidelines fill the form submit
+  - Login with admin credentials and check if we are in admin panel.
+  - Login with student credentials and check if we are in Student panel.
+  - Enter existing credentials and sign up (Error message)
+- Use API test cases with Soap UI / Postman
+  - Use JSON response to validate with conditional and statement method.
+- Less UI testing for achieving the better and fast response
+- Check for all the unit cases we need on page.
+
