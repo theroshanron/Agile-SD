@@ -441,3 +441,12 @@
   - Add keywords, crash data(log of error / applications), attachments and in which story we ran into the issue.
   - Add comments to give detailed information and then submit.
   - Email goes to the developers.
+
+## How to perform smart testing 
+- Test Pyramid: 
+  - Faster execution of the test cases with test pyramid strategy.
+  - Check for all the possible scenario
+    - Do smart testing to cover all the scenario in one go and avoid repeating steps.
+    - Break down the test cases in separate parts to avoid repetitive steps.
+    - Perform integration testing and component / unit testing
+    - End to end test with integration tests
