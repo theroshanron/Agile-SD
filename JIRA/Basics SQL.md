@@ -111,3 +111,20 @@ select distinct employee_name from employee_info;
     select employee_name from employee_info 
     where (location = 'Mumbai' and age < 24) or location = 'Delhi;
 ```
+## Logical Operator And OR
+``` 
+    select employee_name from employee_info where id = 1 or id =2;
+```
+- Employee with id 1 or 2 in the table
+ ```   
+    select employee_name from employee_info where id = 1 and location = 'Delhi'
+```
+- Employee name with id 1 and from Delhi 
+```
+    select employee_name from employee_info where age in(23,24,25)
+```
+- Get the employees whose age are in between 23 and 25
+```
+select employee_name from employee_info where location in ('Delhi','Gurgaon','Mumbai')
+```
+-  Get the employees whose location is Delhi, Gurgaon and Mumbai
