@@ -30,4 +30,11 @@
 - Select developer default to install all the components required and default path for the installation.
 - Click execute to proceed and it takes 10-15 minutes for the installation.
 - Click on configuration and then enter the default SQL root password and add user.
+
+## Overview of SQL editor
+- Open MySQL Workbench from C:Program Files path or desktop icon.
+- Connect to the server to access all the databases stored on the server.
+- User is root and enter the password which was setup during the installation.
+- In the left hand side we can check all the databases and expand it further to see tables and columns
+- In the editor, we can write the query and run, save the file
   
