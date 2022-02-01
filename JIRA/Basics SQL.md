@@ -80,7 +80,7 @@ insert into employee_info values('Shyam', 3, 'Kolkata', 21)
 
 ## Retrieving the values from the table
 ```Select * from employee_info; ```
-- All the columns in the table will be retrieved using asterisk *
+- All the columns in the table will be retrieved using asterisk 
 ```Select employee_name,id,location,age from employee_info; ```
 - Select keyword is used to retrieve the records from the table.
 
@@ -91,3 +91,17 @@ insert into employee_info values('Shyam', 3, 'Kolkata', 21)
 ```use employee_info;```
 ``` select distinct employee_name from employee_info;```
 - Using distinct keyword we will get only unique name from the employee table column name 
+
+## SQL Where command usage
+- Get the employee names of Gurgaon.
+``` select employee_name from employee_info 
+    where location = 'Gurgaon';
+```
+- Get the employee names of Kolkata and age is more than 21
+``` select employee_name from employee_info 
+    where location = 'Kolkata' AND age > 21;
+```
+- Get the employee names of Mumbai and age should be less than 24 or location could be Delhi
+``` select employee_name from employee_info 
+    where (location = 'Mumbai' and age < 24) or location = 'Delhi;
+```
