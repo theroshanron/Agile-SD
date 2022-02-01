@@ -55,3 +55,6 @@ use Demo_Gamer;
 create table employee_info(employee_name varchar(20), id int, location varchar(15), age int);
 ```
 - Created a table name employee_info
+
+``` describe employee_info;  ```
+- Show information about employee table
