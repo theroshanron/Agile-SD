@@ -63,11 +63,11 @@ create table employee_info(employee_name varchar(20), id int, location varchar(1
 insert into employee_info values('Roh', 1, 'Delhi', 25)
 ```
 ```
-insert into employee_info values('Ram', 2, 'Delhi', 25)
+insert into employee_info values('Ram', 2, 'Gurgaon', 24)
 ```
 ```
-insert into employee_info('Aam', 3, 'Delhi', 25)
+insert into employee_info('Aam', 3, 'Mumbai', 21)
 ```
 ```
-insert into employee_info values('Shyam', 4, 'Delhi', 25)
+insert into employee_info values('Shyam', 4, 'Kolkata', 22)
 ```
