@@ -56,9 +56,11 @@ create table employee_info(employee_name varchar(20), id int, location varchar(1
 ```
 - Created a table name employee_info
 
+## Describe the table
 ``` describe employee_info;  ```
 - Show information about employee table
 
+## Inserting the values into the table
 ```
 insert into employee_info values('Roh', 1, 'Delhi', 25)
 ```
@@ -71,3 +73,13 @@ insert into employee_info('Aam', 3, 'Mumbai', 21)
 ```
 insert into employee_info values('Shyam', 4, 'Kolkata', 22)
 ```
+- Inserted four values (rows and columns) in the table.
+
+## Retrieving the values from the table
+```Select * from employee_info; ```
+- All the columns in the table will be retrieved using asterisk *.
+```Select employee_name,id,location,age from employee_info; ```
+- Select keyword is used to retrieve the records from the table.
+
+```Select employee_name,age from employee_info; ```
+-Specific data from the table
