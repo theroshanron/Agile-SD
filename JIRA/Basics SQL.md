@@ -37,4 +37,11 @@
 - User is root and enter the password which was setup during the installation.
 - In the left hand side we can check all the databases and expand it further to see tables and columns
 - In the editor, we can write the query and run, save the file
-  
+
+## Creating a database.
+```
+Create Database Demo_Gamer;
+```
+- Command to create the database.
+- Click on first icon to executed the selected command or all the queries in the editor.
+- Once executed, database will be created and will be visible in the left side after refresh.
