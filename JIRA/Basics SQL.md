@@ -73,13 +73,21 @@ insert into employee_info('Aam', 3, 'Mumbai', 21)
 ```
 insert into employee_info values('Shyam', 4, 'Kolkata', 22)
 ```
+```
+insert into employee_info values('Shyam', 3, 'Kolkata', 21)
+```
 - Inserted four values (rows and columns) in the table.
 
 ## Retrieving the values from the table
 ```Select * from employee_info; ```
-- All the columns in the table will be retrieved using asterisk *.
+- All the columns in the table will be retrieved using asterisk *
 ```Select employee_name,id,location,age from employee_info; ```
 - Select keyword is used to retrieve the records from the table.
 
 ```Select employee_name,age from employee_info; ```
 -Specific data from the table
+
+## Distinct Keyword in queries
+```use employee_info;```
+``` select distinct employee_name from employee_info;```
+- Using distinct keyword we will get only unique name from the employee table column name 
