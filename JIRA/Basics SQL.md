@@ -89,19 +89,25 @@ insert into employee_info values('Shyam', 3, 'Kolkata', 21)
 
 ## Distinct Keyword in queries
 ```use employee_info;```
-``` select distinct employee_name from employee_info;```
+
+``` 
+select distinct employee_name from employee_info;
+```
 - Using distinct keyword we will get only unique name from the employee table column name 
 
 ## SQL Where command usage
 - Get the employee names of Gurgaon.
-``` select employee_name from employee_info 
+``` 
+    select employee_name from employee_info 
     where location = 'Gurgaon';
 ```
 - Get the employee names of Kolkata and age is more than 21
-``` select employee_name from employee_info 
+``` 
+    select employee_name from employee_info 
     where location = 'Kolkata' AND age > 21;
 ```
 - Get the employee names of Mumbai and age should be less than 24 or location could be Delhi
-``` select employee_name from employee_info 
+``` 
+    select employee_name from employee_info 
     where (location = 'Mumbai' and age < 24) or location = 'Delhi;
 ```
