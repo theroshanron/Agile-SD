@@ -20,3 +20,14 @@
   - It runs on almost all the platforms and have good performance results.
 
 ### SQL is a query language whereas MySQL is a database to support SQL.
+
+## Download MYSQL complete product form
+- A server and editor is required to write sql queries and create database.
+- [MySQL Download](https://dev.mysql.com/downloads/windows/installer)
+- Download the community version, select platform and OS architecture 32 bit or 64 bit.
+- Follow all the steps to install after the download completes.
+- Connect to the internet to download all the updates.
+- Select developer default to install all the components required and default path for the installation.
+- Click execute to proceed and it takes 10-15 minutes for the installation.
+- Click on configuration and then enter the default SQL root password and add user.
+  
