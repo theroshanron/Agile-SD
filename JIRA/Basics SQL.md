@@ -128,3 +128,21 @@ select distinct employee_name from employee_info;
 select employee_name from employee_info where location in ('Delhi','Gurgaon','Mumbai')
 ```
 -  Get the employees whose location is Delhi, Gurgaon and Mumbai
+
+## Logical Operator 'In' 'Between'
+- Get the employees name whose id lies between 1 and 100
+```
+select employee_name from employee_info where id between 1 and 100;
+```
+- Get the employees name whose age is less than age 25
+```
+    select employee_name from employee_info where age < 25;
+    select employee_name from employee_ where age in(1,2,3,4,5.....,24,25);
+    select employee_name from employee_ where age between 0 and 25;
+```
+- Get the employees name whose age is not between 25 and 100
+```
+    select employee_name from employee_ where age not between 25 and 100;
+```
+- Not between is useful to make the query shorter.
+  
