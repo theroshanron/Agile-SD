@@ -45,3 +45,13 @@ Create Database Demo_Gamer;
 - Command to create the database.
 - Click on first icon to executed the selected command or all the queries in the editor.
 - Once executed, database will be created and will be visible in the left side after refresh.
+
+## Creating a Table 
+```
+use Demo_Gamer;
+```
+- Use this database
+```
+create table employee_info(employee_name varchar(20), id int, location varchar(15), age int);
+```
+- Created a table name employee_info
