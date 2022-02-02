@@ -146,3 +146,12 @@ select employee_name from employee_info where id between 1 and 100;
 ```
 - Not between is useful to make the query shorter.
   
+## Regular expressions
+- % it stands for any characters like abcde, we can put a% to get any letters after a.
+  - It prints all the names which starts with a and any any character after that.
+- _ underscore stands for one letter (whatever it can be) 
+- _b% represents name starts with any letter and then the second letter is b whereas after that it can have any letter
+- __c% in this scenario, first two letter could be anything and third letter is c, after that any number of random letters can be there.
+
+- Print the names with 3 letters where 1st letter be d.
+  ``` d__ ```
