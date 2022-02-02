@@ -9,3 +9,9 @@
 - MVP: Minimum Viable Product.
 - It's a methodology that delivers the product or value incrementally from the start of the project instead of all at once at the end.
 - It is iterative and time boxed.
+
+## How is it different?
+- Analysis in every sprint
+- Design
+- Code
+- Testing from the beginning
