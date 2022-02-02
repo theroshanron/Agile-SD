@@ -155,3 +155,27 @@ select employee_name from employee_info where id between 1 and 100;
 
 - Print the names with 3 letters where 1st letter be d.
   ``` d__ ```
+
+## Wild card usage queries.
+```
+use world;
+```
+```
+    select * from city;
+    select country_code from city where country_code like 'A%';
+    select name from city where country_code like 'A%';
+
+```
+- It selects the cities whose country code starts with name A
+- like operator is used for the regular expressions
+```
+    select country_code from city where country_code like '__P%';
+    select name from city where country_code like '__P%';
+```
+- It selects all the city where country code's third letter is P
+```
+    select country_code from city where country_code like '_A%';
+    select name from city where country_code like '_A%';
+```
+- It selects all the city where country code's second letter is A
+- % percentage and - underscore are called wild cards.
