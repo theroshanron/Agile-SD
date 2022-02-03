@@ -123,3 +123,20 @@
   - Distribute if needed by adding the platforms.
   - Save and record the audio.
   
+## JIRA 
+- Agile Software
+- Also used as CRM 
+- Has it's own marketplace as well to integrate apps.
+- Kanban / Scrum both boards are supported.
+- JIRA free is limited to 10 users with some limited functionalities.
+- JIRA has both cloud and self-managed version.
+- Issues in JIRA can be epic, stories, bug, task.
+- An epic is a big user story that can't be delivered in a single sprint.
+  - an epic is a parent issue that groups stories, tasks, and bugs together to capture a large, holistic body of work. As the name implies, epics usually represent a significant deliverable. In the backlog, you can filter by issues belonging to a single epic.
+  - Has multiple user stories.
+- We can apply labels in JIRA for easy filters and automation.
+- We can customize JIRA board from board configuration which includes Columns, Swimlanes, Filters, Card colours, layouts, estimation etc.
+- JIRA allows story points to calculate the efforts and complexity of the issues.
+- Drag and drop works on JIRA board.
+- JIRA supports so many reports type for free including Burndown chart, Sprint report and Velocity chart, Version report, release report etc.
+  
