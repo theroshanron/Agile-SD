@@ -59,3 +59,20 @@
 - Visual system to track work and progress in a logical / basic flow.
 - To Do > In Progress > In Review > Done
 - Trello or JIRA board
+
+## Agile Ritual 
+- Sprint planning .
+- Daily stand-ups
+- Sprint Review (Demo / Showcases).
+- Retrospectives.
+
+## Agile Myths 
+- Agile is anti-documentation
+  - Just keep it simple and don't spend much time.
+- Agile is anti-planning. 
+  - Regular sprint.
+- Agile solves everything.
+  - It's a framework, methodology, and not the process.
+  - Collaborate, research and work.
+- Agile is only for IT projects.
+  - It was born in IT industry but can be used anywhere including the personal projects
