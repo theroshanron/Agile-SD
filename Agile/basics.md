@@ -46,3 +46,16 @@
   - Includes all must have and excludes all nice to haves. 
 - Release: Comprised of several iteration or sprints.
 - Sprints: Period of time in which the team will work on defined set of user stories.
+
+## Agile team and Roles
+- Product owner: Represents the end customer.
+- Scrum Master: Facilitates team meetings, removes team impediments, liaises with the product owner and ensures the team remains on track.
+- Delivery (Development team)
+  
+### tools
+#### Burn down chart:
+- A chart that shows the remaining work to be done, progress over time and the team's velocity.
+#### Kanban / Agile board
+- Visual system to track work and progress in a logical / basic flow.
+- To Do > In Progress > In Review > Done
+- Trello or JIRA board
