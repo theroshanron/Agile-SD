@@ -33,3 +33,16 @@
   - It's not a process so might not solve all the problems but it focuses on working collaboratively and making things simpler.
 - Can I apply Agile on my personal project?
   - Yes definitely, same methods apply.
+
+## Key concepts
+- User stories: As a user I want to do this so that...
+- Story points: Relative unit of measure to assess whether a user story is big or small where 5 means high complexity and 2 mean low complexity
+- Product backlog: All the stories but tangible and flexible
+- Sprint backlog: Couple of stories that needs to be worked on given time frame( 2 weeks).
+- Velocity: Number of story points delivered over a sprint.
+- Swimlanes: Visual representation of stories (y axis) vs status on the kanban/agile board (To do, doing, done)
+- MVP (Minimum Viable Product) and not most valuable player 
+  - Bare minimum product that meets the client's expectations. 
+  - Includes all must have and excludes all nice to haves. 
+- Release: Comprised of several iteration or sprints.
+- Sprints: Period of time in which the team will work on defined set of user stories.
