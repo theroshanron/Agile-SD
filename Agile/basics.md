@@ -106,3 +106,20 @@
     - We can apply filters based on label, assignee etc.
   - We can create a new team as well by inviting the members to Trello.
   
+## Agile Kanban board Example
+- To do
+  - Selected for development
+    - Progress
+      - QA
+        - Done
+- We can move one task from a progress state to different with Drag and drop.
+- Real world example: Creating a podcast.
+  - Sign up for Podcast app like Anchor or Spotify.
+  - Make a new podcast.
+  - Setup the podcast with name and profile URL.
+  - Add description of the podcast.
+  - Select the cover art or upload one from the gallery.
+  - Add category for the podcast and language.
+  - Distribute if needed by adding the platforms.
+  - Save and record the audio.
+  
