@@ -76,3 +76,33 @@
   - Collaborate, research and work.
 - Agile is only for IT projects.
   - It was born in IT industry but can be used anywhere including the personal projects
+
+## Agile tools
+- JIRA 
+  - Agile tools for software teams.
+- Trello
+- Freedcamp
+- Asana
+- Basecamp
+- Active Collab
+- Teams
+- Planner
+- Hassl
+- Neatro
+- Azure
+
+## Best free tool to manage the Agile Project.
+- Trello: Completely free, unlimited users 
+  - Sign up for free with your email account and password (New)
+  - Verify your account with email address
+  - First screen takes you to personal board or create a new board.
+    - Change the background if needed
+    - Create the lists like To-do, Progress, QA, Done, Out of Scope.
+      - Discovery, planning, Implementation and Closure.
+    - We can add the stories to all the lists based on progress.
+    - We can add labels and due date to the stories.
+    - We can also add notes in the comments section of the stories and add members to it.
+    - We can also see the latest activity in Projects. 
+    - We can apply filters based on label, assignee etc.
+  - We can create a new team as well by inviting the members to Trello.
+  
