@@ -140,3 +140,16 @@
 - Drag and drop works on JIRA board.
 - JIRA supports so many reports type for free including Burndown chart, Sprint report and Velocity chart, Version report, release report etc.
   
+  ## Microsoft Planner
+  - Allows kanban board and comes with Office 365 suite 
+    - Can add user stories 
+    - Try to add the Summary of user stories in Verb and keep it short 
+      - Update login page or create the banner div
+    - Bucket allows all the main status such as to do, doing, QA, Done and Parking lot ideas.
+      - We can rename the buckets.
+    - We can add labels, start time and due date to user stories.
+    - It also allows to add Checklist of tasks and Add attachment option in the user stories.
+    - We can apply filters using different options similar to JIRA 
+  - [Microsoft Planner](https://tasks.office.com)
+  - It also shows the charts to based on task completion, members and buckets.
+  - 
