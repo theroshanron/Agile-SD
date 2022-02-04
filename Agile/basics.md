@@ -152,4 +152,15 @@
     - We can apply filters using different options similar to JIRA 
   - [Microsoft Planner](https://tasks.office.com)
   - It also shows the charts to based on task completion, members and buckets.
-  - 
+
+
+  ## Before you start
+  - Define the role in the team and which role each person will play.
+  - Plan with the team on days and times for the Agile rituals.
+  - Get the physical or digital tools ready.
+  - Make sure the due diligence and budget is discussed.
+  - Determine the expected constraints.
+  - Define the days of release, test and sprint.
+  - Create the user story and assign story points.
+  - Set priorities.
+  - Update the plan as we go.
