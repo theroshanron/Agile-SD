@@ -175,3 +175,10 @@
 - Agile Operations Lead
 - Agile Delivery Manager
 - Agile Product Lead
+
+## Agile Recap
+- User stories in Backlog.
+  - Iteration and adding user stories based on priorities in sprint. 
+    - Iteration / Sprint 2 weeks.
+      - Product Increment.
+        - Retrospectives.
