@@ -164,3 +164,14 @@
   - Create the user story and assign story points.
   - Set priorities.
   - Update the plan as we go.
+
+## Specific Agile Roles
+- Scrum Master
+  - Senior Scrum Master
+- Scrum Coach
+- Agile Coach
+- Agile Project Manager
+- Agile Business Analyst
+- Agile Operations Lead
+- Agile Delivery Manager
+- Agile Product Lead
